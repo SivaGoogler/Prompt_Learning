@@ -118,7 +118,7 @@ function App() {
     <div className="chat-container">
       <header className="chat-header">
         <Sparkles className="text-accent-color" size={24} color="#6366f1" />
-        <h1>NVIDIA Cognitive Interface</h1>
+        <h1>Chatterbox</h1>
       </header>
 
       <main className="messages-list">

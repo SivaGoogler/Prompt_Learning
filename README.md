@@ -1,4 +1,4 @@
-# NVIDIA Cognitive Interface 🚀
+# Chatterbox 🚀
 
 A premium, full-stack chat application built with **React** and **FastAPI**, integrating **NVIDIA Nim's** advanced reasoning models (`nvidia/nemotron-3-super-120b-a12b`).
 
