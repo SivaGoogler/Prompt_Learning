@@ -1,4 +1,4 @@
-# Nim Chat Pro 🚀
+# NVIDIA Cognitive Interface 🚀
 
 A premium, full-stack chat application built with **React** and **FastAPI**, integrating **NVIDIA Nim's** advanced reasoning models (`nvidia/nemotron-3-super-120b-a12b`).
 
@@ -88,3 +88,11 @@ chmod +x start.sh
 - `/chat-app/backend/main.py`: Handles streaming logic and API communication.
 - `/chat-app/frontend/src/App.jsx`: Main interface logic with streaming hooks.
 - `/chat-app/frontend/src/index.css`: Custom design system and glassmorphism styles.
+
+---
+
+## 🔒 Version Control & Security
+A `.gitignore` file is included in the root directory to ensure that sensitive and unnecessary files are not tracked by Git:
+- **Security**: `.env` files (containing your API keys) are ignored.
+- **Dependencies**: `node_modules/` and `venv/` are excluded.
+- **System**: macOS `.DS_Store` and IDE-specific files are ignored.
