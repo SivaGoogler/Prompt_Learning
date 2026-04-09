@@ -88,6 +88,13 @@ chmod +x start.sh
 - `/chat-app/backend/main.py`: Handles streaming logic and API communication.
 - `/chat-app/frontend/src/App.jsx`: Main interface logic with streaming hooks.
 - `/chat-app/frontend/src/index.css`: Custom design system and glassmorphism styles.
+- `/prompt/bus-conductor/`: Contains the specialized persona prompt for the "Bus Conductor" assistance mode.
+
+---
+
+## 🧠 System Prompts
+The application supports specialized AI personas defined in the `/prompt` directory:
+- **Bus Conductor**: Located at `/prompt/bus-conductor/prompt.rtcfr.txt`. This prompt configures the AI to act as a professional and friendly bus conductor, assisting with fares, routes, and passenger safety.
 
 ---
 
